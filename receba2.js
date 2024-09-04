@@ -52,4 +52,4 @@ function finalizarJogo(mensagem) {
 
 atualizarExibicao();
 
-//criei a dinâmica do jogo usando a maior parte chat gpt, pois não sei usar funções muito bem ainda :(
+//criei a dinâmica do jogo (GetElementById) usando a maior parte chat gpt, pois não sei usar funções muito bem ainda :(
